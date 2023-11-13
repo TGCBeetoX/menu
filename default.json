@@ -19,10 +19,10 @@
                     "buttontext": "Bienvenue",
                     "title1": "FR PVE TERRA GAMING",
                     "title2": "INFORMATIONS",
-                    "title3": "MODIFICATIONS SERVEURS",
+                    "title3": "MODIFICATIONS SERVEUR",
                     "text1": "Bonjour aventurier, te voici sur le serveur de la communauté Terra Gaming, nous sommes heureux de t'accueillir.\n\nPrends le temps de lire ce qui se trouve sur cet écran pour t'informer sur le contenu de notre serveur.\n\n N'hésite pas à communiquer avec d'autres joueurs pour profiter au maximum du jeu.\n\nAmuse toi bien et à bientôt sur l'île!",
-                    "text2": "*Le serveur redémarre tout les jours à 6h00.\n\n*Rejoignez notre discord en cliquant sur le bouton en bas à gauche.\n\n*Si vous souhaitez contribuer au maintien du serveur, cliquez sur le bouton Contribution en bas à gauche de cet écran.",
-                    "text3": "13/11: Ajout du mod WBUI2.",
+                    "text2": "* Le serveur redémarre tout les jours à 6h00.\n\n* Rejoignez notre discord en cliquant sur le bouton en bas à gauche.\n\n* Si vous souhaitez contribuer au maintien du serveur, cliquez sur le bouton Contribution en bas à gauche de cet écran.",
+                    "text3": "* 13/11: Ajout du mod WBUI2.",
                     "imageurl": "https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28313.jpg"
                 }
             },
@@ -37,7 +37,7 @@
                     "text1": "C'est un centre d'usinage qui ne ressemble pas à un broyeur détruisant vos oreilles !\n\nVous pouvez toujours l'entendre mais il est silencieux à 90 %.\n\nIl vous suffit d'enlever l'ancien et de le redéposer pour que la réduction de bruit soit prise en compte.",
                     "text2": "Un petit appareil qui fait office d'ancienne prise de courant et vous permet d'étendre la portée du groupe électrogène.\n\nIl prend donc l'énergie du générateur et la distribue à n'importe quel appareil à portée.\n\nLa portée est la même que celle du générateur.\n\nLe plan peut être appris au niveau 49 et coûte 1 point d'engramme.\n\nPour le construire, il faut un peu de polymère (2), de métal (2) et d'électronique (1).\n\nIl devrait s'accrocher à n'importe quoi.",
                     "text3": "AP : Death Recovery ajoute une Pierre de Récupération (débloquée au niveau 25) qui permet aux joueurs de récupérer des objets de leur dernière mort !\n\nL'utilisation du mod est simple ; trouvez simplement la pierre de récupération au niveau 25, posez-la et interagissez avec elle pour récupérer vos objets !",
-                    "text4": "Structures présentes dans le mod :\n\n*Stockage dédié en bois.\n*Stockage dédié aux pierres.\n*Lampe tubulaire.\n*Lampe circulaire.\n*Lampe applique.\n*MultiForge.\n*DinoGate 3X + Portail vitré.\n\n*Les banques d'artisanat accèdent à votre inventaire pour fabriquer des objets.\n\nLes 3 variantes peuvent être placées sur des plateformes de Raft, Catamaran et selle.",
+                    "text4": "Structures présentes dans le mod :\n\n* Stockage dédié en bois.\n* Stockage dédié aux pierres.\n* Lampe tubulaire.\n* Lampe circulaire.\n* Lampe applique.\n* MultiForge.\n* DinoGate 3X + Portail vitré.\n\n* Les banques d'artisanat accèdent à votre inventaire pour fabriquer des objets.\n\nLes 3 variantes peuvent être placées sur des plateformes de Raft, Catamaran et selle.",
                     "imageurl": "https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28313.jpg"
                 }
             },
@@ -48,11 +48,11 @@
                     "title1": "AutoDoors",
                     "title2": "Utilities Plus",
                     "title3": "Easy Pumps",
-                    "title4": "",
+                    "title4": "WBUI2",
                     "text1": "Bienvenue dans le monde amélioré de l'exploration avec AutoDoors ! Cette modification ingénieuse intègre de manière transparente les structures et les fonctionnalités bien-aimées des systèmes de portes automatiques dans votre gameplay. Aucune configuration complexe n'est requise ; installez simplement le mod et commencez immédiatement à profiter de ses fonctionnalités.\n\nGrâce au menu intuitif  R , placez sans effort ces portes automatiques là où vous le souhaitez, comme vous le feriez avec une porte standard. Une fois réglées, ces portes fonctionnent de manière autonome, répondant en douceur à votre présence. Approchez-en un et regardez-le s'ouvrir automatiquement, vous offrant un accès transparent à votre sanctuaire. Dites adieu aux tracas de la gestion manuelle des portes et accueillez la commodité simplifiée du mod AutoDoors.",
-                    "text2": "C'est une modification pour ARK Survival Ascended qui ajoute une version de nombreux éléments existants qui peuvent être utilisés encore et encore, ainsi que certains éléments de qualité de vie tels que :\n\n- Bola réutilisable\n\n- Pistolet lance-fusées réutilisable\n\n- Grappin réutilisable\n\n- Parachute réutilisable\n\n- Lance réutilisable\n\n- Jumelles U+\n\n- Torche réutilisable",
-                    "text3": "Easy Pumps ajoute une collection de pompes pour générer automatiquement les ressources les plus utilisées\n\n1. Easy Oil Pump (1 Pétrol/5000s)\n\n2. Easy Cementing Paste Pump (1 Ciment/5000s)\n\n3. Easy Crystal Pump (1 Crystal/5000s)\n\n4. Easy Metal Pump (1 Metal/5000s)\n\n5. Easy Element Pump (1 Element/10000s)\n\n6. Easy Electronics Pump (1 Electroniaue/10000s)\n\n7. Easy Organic Polymer Pump (1 Polymère/10000s)\n\n8. Easy Obsidian Pump (1 Obsidienne/7000s)\n\n9. Easy Silica Pearl Pump (1 Perle de silice/7000s)\n\n10. Easy Black Pearl Pump (1 Perle noire/7000s)",
-                    "text4": "4",
+                    "text2": "C'est une modification pour ARK Survival Ascended qui ajoute une version de nombreux éléments existants qui peuvent être utilisés encore et encore, ainsi que certains éléments de qualité de vie tels que :\n\n* Bola réutilisable\n\n* Pistolet lance-fusées réutilisable\n\n* Grappin réutilisable\n\n* Parachute réutilisable\n\n* Lance réutilisable\n\n* Jumelles U+\n\n* Torche réutilisable",
+                    "text3": "Easy Pumps ajoute une collection de pompes pour générer automatiquement les ressources les plus utilisées\n\n* Easy Oil Pump (1 Pétrol/5000s)\n\n* Easy Cementing Paste Pump (1 Ciment/5000s)\n\n* Easy Crystal Pump (1 Crystal/5000s)\n\n* Easy Metal Pump (1 Metal/5000s)\n\n* Easy Element Pump (1 Element/10000s)\n\n* Easy Electronics Pump (1 Electroniaue/10000s)\n\n* Easy Organic Polymer Pump (1 Polymère/10000s)\n\n* Easy Obsidian Pump (1 Obsidienne/7000s)\n\n* Easy Silica Pearl Pump (1 Perle de silice/7000s)\n\n* Easy Black Pearl Pump (1 Perle noire/7000s)",
+                    "text4": "Ce mod est une "refonte" et un portage du mod populaire "Editable Server UI (WBUI)" d'ASE.\n\nLe mod nous donne la possibilité d'afficher les règles, les paramètres, les événements à venir ou des informations générales sur votre serveur.\n\nEn plus d'afficher des informations utiles aux joueurs, il nous donne la possibilité d'ajouter des boutons qui ouvrent directement le navigateur sur le site de la communauté, du support Discord ou sur le site de l'ASE, afin de toujours être à jour en un clic directement depuis le jeu. !",
                     "imageurl": "https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28313.jpg"
                 }
             },
