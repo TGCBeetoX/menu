@@ -61,9 +61,9 @@
                     "layout": 2,
                     "buttontext": "Configuration serveur",
                     "title1": "Réglages de bases",
-                    "title2": "2:",
-                    "text1": "Tam",
-                    "text2": "2",
+                    "title2": "Autres informations:",
+                    "text1": "Mode de jeu: PVE.\n\nXP Multiplicateur: x 1.4\n\nTaming: x 5\n\nDufficulté: x 4\n\nRessources: x 3\n\nMating: x 1.5",
+                    "text2": "-",
                     "imageurl": "https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28313.jpg"
                 }
             }
