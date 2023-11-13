@@ -83,6 +83,12 @@
             },
             {
                 "link3": {
+                    "text": "Dododex",
+                    "url": "https://www.dododex.com/"
+                }
+            },
+            {
+                "link4": {
                     "text": "Wiki Ark",
                     "url": "https://ark.wiki.gg/fr/wiki/ARK:_Survival_Ascended"
                 }
