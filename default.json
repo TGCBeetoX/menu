@@ -23,8 +23,8 @@
                 }
             },
             {
-                "tab1": {
-                    "layout": 1,
+                "tab2": {
+                    "layout": 2,
                     "buttontext": "Mods",
                     "title1": "INI settings:",
                     "title2": "test:",
@@ -34,7 +34,7 @@
                 }
             },
             {
-                "tab1": {
+                "tab3": {
                     "layout": 1,
                     "buttontext": "Settings",
                     "title1": "INI settings:",
