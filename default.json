@@ -21,14 +21,14 @@
                     "title2": "INFOS SERVEUR",
                     "text1": "Bienvenu(e) sur notre serveur PVE.",
                     "text2": "Le serveur redémarre tout les jours à 6h00.\n\nRejoignez notre discord en cliquant sur le bouton en bas à gauche.",
-                    "imageurl": ""
+                    "imageurl": "https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28313.jpg"
                 }
             },
             {
                 "tab2": {
                     "layout": 4,
                     "buttontext": "Mods",
-                    "title1": "Silent fabricator:",
+                    "title1": "Silent fabricator :",
                     "title2": "Mod 2:",
                     "title3": "Mod 3:",
                     "title4": "Mod 4:",
@@ -45,7 +45,7 @@
                     "buttontext": "test3",
                     "title1": "test3:",
                     "text1": "test3",
-                    "imageurl": ""
+                    "imageurl": "https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28313.jpg"
                 }
             }
         ],
