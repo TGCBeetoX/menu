@@ -15,10 +15,10 @@
         "tabs": [
             {
                 "tab1": {
-                    "layout": 1,
+                    "layout": 2,
                     "buttontext": "Bienvenue",
                     "title1": "Serveur FR PVE Terra Gaming!",
-                    "text1": "Test 0",
+                    "text1": "Bienvenu(e) sur notre serveur PVE./n",
                     "imageurl": ""
                 }
             },
