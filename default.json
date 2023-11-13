@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Bienvenue",
                     "title1": "Serveur FR PVE Terra Gaming!",
-                    "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+                    "text1": "Test 0",
                     "imageurl": ""
                 }
             },
@@ -28,18 +28,18 @@
                     "buttontext": "Mods",
                     "title1": "INI settings:",
                     "title2": "test:",
-                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
+                    "text1": "test1",
                     "text2": "test2",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                    "imageurl": ""
                 }
             },
             {
                 "tab3": {
                     "layout": 1,
-                    "buttontext": "Settings",
-                    "title1": "INI settings:",
-                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                    "buttontext": "test3",
+                    "title1": "test3:",
+                    "text1": "test3",
+                    "imageurl": ""
                 }
             }
         ],
