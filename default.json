@@ -29,13 +29,13 @@
                     "layout": 4,
                     "buttontext": "Mods Structures",
                     "title1": "Silent fabricator :",
-                    "title2": "Electric Power Amplifier:",
-                    "title3": "AP: Death Recovery:",
-                    "title4": "Mod 4:",
+                    "title2": "Electric Power Amplifier :",
+                    "title3": "AP: Death Recovery :",
+                    "title4": "Klinger Additional Structures :",
                     "text1": "C'est un centre d'usinage qui ne ressemble pas à un broyeur détruisant vos oreilles !\n\nVous pouvez toujours l'entendre mais il est silencieux à 90 %.\n\nIl vous suffit d'enlever l'ancien et de le redéposer pour que la réduction de bruit soit prise en compte.",
                     "text2": "Un petit appareil qui fait office d'ancienne prise de courant et vous permet d'étendre la portée du groupe électrogène.\n\nIl prend donc l'énergie du générateur et la distribue à n'importe quel appareil à portée.\n\nLa portée est la même que celle du générateur.\n\nLe plan peut être appris au niveau 49 et coûte 1 point d'engramme.\n\nPour le construire, il faut un peu de polymère (2), de métal (2) et d'électronique (1).\n\nIl devrait s'accrocher à n'importe quoi.",
                     "text3": "AP : Death Recovery ajoute une Pierre de Récupération (débloquée au niveau 25) qui permet aux joueurs de récupérer des objets de leur dernière mort !\n\nL'utilisation du mod est simple ; trouvez simplement la pierre de récupération au niveau 25, posez-la et interagissez avec elle pour récupérer vos objets !",
-                    "text4": "test4",
+                    "text4": "Structures présentes dans le mod :\n\n*Stockage dédié en bois.\n\n*Stockage dédié aux pierres.\n*Lampe tubulaire.\n*Lampe circulaire.\n*Lampe applique.\n*MultiForge.\n*DinoGate 3X + Portail vitré.\n\n*Les banques d'artisanat accèdent à votre inventaire pour fabriquer des objets.\n\nLes 3 variantes peuvent être placées sur des plateformes de Raft, Catamaran et selle.",
                     "imageurl": "https://img.freepik.com/photos-gratuite/vieux-fond-noir-texture-grunge-fond-ecran-sombre-tableau-noir-tableau-noir-mur-salle_1258-28313.jpg"
                 }
             },
