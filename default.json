@@ -20,18 +20,22 @@
                     "title1": "FR PVE Terra Gaming",
                     "title2": "INFOS SERVEUR",
                     "text1": "Bienvenu(e) sur notre serveur PVE.",
-                    "text2": "Le serveur redémarre tout les jours à 6h00.\nRejoignez notre discord en cliquant sur le bouton en bas à gauche.",
+                    "text2": "- Le serveur redémarre tout les jours à 6h00.\n\n- Rejoignez notre discord en cliquant sur le bouton en bas à gauche.",
                     "imageurl": ""
                 }
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 4,
                     "buttontext": "Mods",
-                    "title1": "INI settings:",
-                    "title2": "test:",
+                    "title1": "Mod 1:",
+                    "title2": "Mod 2:",
+                    "title3": "Mod 3:",
+                    "title4": "Mod 4:",
                     "text1": "test1",
                     "text2": "test2",
+                    "text3": "test3",
+                    "text4": "test4",
                     "imageurl": ""
                 }
             },
