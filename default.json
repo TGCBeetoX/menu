@@ -7,7 +7,7 @@
             "IconURL": "https://ark.wiki.gg/images/thumb/0/0a/ASA_Logo_transparent.png/1024px-ASA_Logo_transparent.png",
             "DisableIconText": false,
             "IconPosition": 0,
-            "IconTextColor": 0,
+            "IconTextColor": 5,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 12
